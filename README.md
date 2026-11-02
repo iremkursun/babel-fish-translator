@@ -1,5 +1,6 @@
 # 🐟 Babel Fish — Voice Translator with LLM, STT & TTS
-![Babel Fish voice translator demo](<img width="808" height="638" alt="Voice Assistant_Translation" src="https://github.com/user-attachments/assets/9cdded80-bef8-4d42-b685-621bc533863f" />
+![Babel Fish voice translator demo]
+(<img width="808" height="638" alt="Voice Assistant_Translation" src="https://github.com/user-attachments/assets/9cdded80-bef8-4d42-b685-621bc533863f" />
 )
 A full-stack voice translation assistant inspired by the Babel Fish from *The Hitchhiker's Guide to the Galaxy*.
 Speak (or type) in English and get the translation back in Spanish — both as text and as spoken audio.
